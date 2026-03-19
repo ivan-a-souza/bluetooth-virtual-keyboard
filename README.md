@@ -2,9 +2,9 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Transforms a Linux laptop into a **Bluetooth Low Energy (BLE) keyboard** for another computer, using **Node.js + BlueZ via D-Bus**.
+Transforms a Linux computer into a **Bluetooth Low Energy (BLE) keyboard** for another computer, using **Node.js + BlueZ via D-Bus**.
 
-> Objective: Use the laptop's physical keyboard to type on another computer/phone as if the laptop were a Bluetooth peripheral.
+> Objective: Use the computer's physical keyboard to type on another computer/phone as if the computer were a Bluetooth peripheral.
 
 ---
 
