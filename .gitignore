@@ -1,0 +1,10 @@
+node_modules/
+coverage/
+.DS_Store
+*.log
+btmon_output*.txt
+test_btmon.txt
+btmon_*.txt
+package-lock.json
+.vscode/
+.idea/
